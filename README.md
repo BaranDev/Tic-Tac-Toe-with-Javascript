@@ -36,5 +36,3 @@ You can extend this game by adding the following features:
 - Adding animations and effects to enhance the user experience.
 - Implementing a feature to save and resume games.
 - Adding a multiplayer mode where players can compete online.
-
-[![Play on GitHub Pages](https://img.shields.io/badge/Play%20on-GitHub%20Pages-brightgreen)](https://barandev.github.io/Tic-Tac-Toe-with-Javascript)

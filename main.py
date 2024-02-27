@@ -1,7 +1,7 @@
 from flask import Flask, render_template
 
-app = Flask(__name__)
 
+app = Flask(__name__, static_folder='static', template_folder='templates')
 
 
 @app.route("/")
@@ -9,7 +9,6 @@ def root_route():
     return render_template('template.html')
 
 
-
 if __name__ == "__main__":
-    app.run(host="0.0.0.0", port=8080, debug=True)
-    
+    app.run(host="0.0.0.0", port=8080)
+

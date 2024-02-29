@@ -36,3 +36,11 @@ You can extend this game by adding the following features:
 - Adding animations and effects to enhance the user experience.
 - Implementing a feature to save and resume games.
 - Adding a multiplayer mode where players can compete online.
+
+![GitHub language count](https://img.shields.io/github/languages/count/barandev/Tic-Tac-Toe-with-Javascript)
+![GitHub repo size](https://img.shields.io/github/repo-size/barandev/Tic-Tac-Toe-with-Javascript)
+[![License](https://img.shields.io/github/license/barandev/Tetris-Game-Template)](https://github.com/barandev/Tetris-Game-Template/blob/main/LICENSE)
+[![GitHub issues](https://img.shields.io/github/issues/barandev/Tic-Tac-Toe-with-Javascript)](https://github.com/barandev/Tic-Tac-Toe-with-Javascript/issues)
+[![GitHub pull requests](https://img.shields.io/github/issues-pr/barandev/Tic-Tac-Toe-with-Javascript)](https://github.com/barandev/Tic-Tac-Toe-with-Javascript/pulls)
+[![GitHub stars](https://img.shields.io/github/stars/barandev/Tic-Tac-Toe-with-Javascript)](https://github.com/barandev/Tic-Tac-Toe-with-Javascript/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/barandev/Tic-Tac-Toe-with-Javascript)](https://github.com/barandev/Tic-Tac-Toe-with-Javascript/network)

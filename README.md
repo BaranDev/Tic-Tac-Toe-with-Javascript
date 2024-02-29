@@ -39,7 +39,7 @@ You can extend this game by adding the following features:
 
 ![GitHub language count](https://img.shields.io/github/languages/count/barandev/Tic-Tac-Toe-with-Javascript)
 ![GitHub repo size](https://img.shields.io/github/repo-size/barandev/Tic-Tac-Toe-with-Javascript)
-[![License](https://img.shields.io/github/license/barandev/Tetris-Game-Template)](https://github.com/barandev/Tetris-Game-Template/blob/main/LICENSE)
+[![License](https://img.shields.io/github/license/barandev/Tic-Tac-Toe-with-Javascript)](https://github.com/barandev/Tic-Tac-Toe-with-Javascript/blob/main/LICENSE)
 [![GitHub issues](https://img.shields.io/github/issues/barandev/Tic-Tac-Toe-with-Javascript)](https://github.com/barandev/Tic-Tac-Toe-with-Javascript/issues)
 [![GitHub pull requests](https://img.shields.io/github/issues-pr/barandev/Tic-Tac-Toe-with-Javascript)](https://github.com/barandev/Tic-Tac-Toe-with-Javascript/pulls)
 [![GitHub stars](https://img.shields.io/github/stars/barandev/Tic-Tac-Toe-with-Javascript)](https://github.com/barandev/Tic-Tac-Toe-with-Javascript/stargazers)

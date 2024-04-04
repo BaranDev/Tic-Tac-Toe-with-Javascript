@@ -44,3 +44,4 @@ You can extend this game by adding the following features:
 [![GitHub pull requests](https://img.shields.io/github/issues-pr/barandev/Tic-Tac-Toe-with-Javascript)](https://github.com/barandev/Tic-Tac-Toe-with-Javascript/pulls)
 [![GitHub stars](https://img.shields.io/github/stars/barandev/Tic-Tac-Toe-with-Javascript)](https://github.com/barandev/Tic-Tac-Toe-with-Javascript/stargazers)
 [![GitHub forks](https://img.shields.io/github/forks/barandev/Tic-Tac-Toe-with-Javascript)](https://github.com/barandev/Tic-Tac-Toe-with-Javascript/network)
+### Created With [Lazy.AI](https://www.getlazy.ai)

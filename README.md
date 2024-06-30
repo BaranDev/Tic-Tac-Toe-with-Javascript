@@ -29,14 +29,6 @@ This repository contains a simple Tic Tac Toe game implemented in JavaScript and
 2. **Accessing the Game**:
    - Once the Flask application is running, navigate to `http://localhost:8080` in your web browser to play the Tic Tac Toe game.
 
-## Additional Features
-
-You can extend this game by adding the following features:
-- Implementing an AI with different difficulty levels.
-- Adding animations and effects to enhance the user experience.
-- Implementing a feature to save and resume games.
-- Adding a multiplayer mode where players can compete online.
-
 ![GitHub language count](https://img.shields.io/github/languages/count/barandev/Tic-Tac-Toe-with-Javascript)
 ![GitHub repo size](https://img.shields.io/github/repo-size/barandev/Tic-Tac-Toe-with-Javascript)
 [![License](https://img.shields.io/github/license/barandev/Tic-Tac-Toe-with-Javascript)](https://github.com/barandev/Tic-Tac-Toe-with-Javascript/blob/main/LICENSE)
